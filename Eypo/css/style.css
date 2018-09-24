@@ -1,0 +1,84 @@
+
+.tblblock thead tr{
+    display:block;
+}
+
+.tblblock  tbody{
+  display:block;
+  height:400px;
+  overflow:auto;
+}
+
+
+
+#navbarNav ul li:hover .nav-link {
+  background-color: aliceblue;
+	color: #005580;
+  border-radius: 3px;
+}
+#navbarNav ul li .nav-link {
+
+	color: white;
+	box: inset 0 0 0 3px #3a7999;
+	display: block;
+
+}
+.navbar{
+      background-color: red;
+    }
+		.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#detalleoferta {
+	display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#desarmeArme input{
+	width: 50%;
+	font-size: .7rem;
+}
+
+#desarmeArme select{
+	width: 50%;
+	font-size: .7rem;
+}
+
+#desarmeArme label{
+	font-size: .7rem;
+}
+
+#desarmeArme table {
+	font-size: .7rem;
+}
+
+#desarmeArme span {
+	font-size: .7rem;
+}
+
+.datosEnc label {
+  padding-right: 0px; 
+  padding-bottom:  0px;
+}
+#cursor{
+    cursor: pointer;
+    font-weight: bold;
+}     
+

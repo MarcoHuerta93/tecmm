@@ -1,0 +1,185 @@
+[14-Jun-2018 22:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:24:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:33:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/index.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 22:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/header.php(2): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(8): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:02:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(16): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(16): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(16): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/ofertaDeVenta.php(16): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:06:00 UTC] PHP Warning:  require(crudcatalogo/conexion.php): failed to open stream: No such file or directory in /home/addherit/public_html/Eypo/registro.php on line 2
+[14-Jun-2018 23:06:00 UTC] PHP Fatal error:  require(): Failed opening required 'crudcatalogo/conexion.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/addherit/public_html/Eypo/registro.php on line 2
+[14-Jun-2018 23:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/registro.php(83): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/registro.php(82): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
+[14-Jun-2018 23:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/addherit/public_html/Eypo/conexion.php:4
+Stack trace:
+#0 /home/addherit/public_html/Eypo/footer.php(3): include()
+#1 /home/addherit/public_html/Eypo/registro.php(82): include('/home/addherit/...')
+#2 {main}
+  thrown in /home/addherit/public_html/Eypo/conexion.php on line 4
